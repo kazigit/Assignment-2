@@ -32,6 +32,10 @@ body{
     font-size: 16px;
     margin-bottom: 80px;
     border: none;
+    transition: 2s;
+}
+.text-section-1 button:hover{
+    background-color: cyan;
 }
 .text-section-1 button i{
     padding-left: 7px;
